@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
+## Greedy
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
