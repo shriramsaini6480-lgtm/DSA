@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0231-power-of-two) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Greedy
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
