@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
