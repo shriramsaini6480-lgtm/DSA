@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shriramsaini6480-lgtm/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
